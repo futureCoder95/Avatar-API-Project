@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@500&family=Baloo+Bhai+2:wght@500&family=Comfortaa:wght@500&family=Comforter&family=Fredoka:wght@300;400&family=Grenze+Gotisch:wght@400;500&family=Montserrat+Alternates&family=Montserrat:wght@400;500&family=Mulish:wght@300&family=Poiret+One&family=Poppins:wght@300;500&family=Rock+Salt&family=Shadows+Into+Light&family=Ubuntu&display=swap');
+
+body {
+    background-color: rgb(177, 160, 160);
+    font-family: 'Poppins', sans-serif;
+}
+
+#sec {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+#sec h1 {
+    font-size: 44px;
+}
+
+.container {
+    border: 2px solid black;
+    background-color: wheat;
+}
+
+.container input {
+    padding: 7px 30px;
+}
+
+.details {
+    text-align: center;
+    font-size: 22px;
+    margin-top: 17px;
+}
+
+.container label {
+    margin-top: 18px;
+}
+
+.image {
+    text-align: center;
+    margin-top: 35px;
+}
+
+.image img {
+    border: 2px solid black;
+    background-color: slategray;
+}
+
+.btn {
+    text-align: center;
+    padding: 9px 40px;
+    background-color: black;
+    color: blanchedalmond;
+    margin: 19px auto;
+    font-size: 17px;
+    margin-left: 490px;
+    cursor: pointer;
+}
